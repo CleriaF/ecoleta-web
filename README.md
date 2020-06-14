@@ -1,6 +1,14 @@
 # Ecoleta
 
+<p align="center">
+<img src="https://github.com/CleriaF/ecoleta-web/blob/master/src/assets/ecoleta%20home.png">
+</p>
+
 ## Projeto em ReactJS para cadastro e visualização de pontos de coletas.
+
+<p align="center">
+<img src="https://github.com/CleriaF/ecoleta-web/blob/master/src/assets/git-ecoleta2.gif">
+</p>
 
 ## Linguagens e libs utilizadas :books:
 
